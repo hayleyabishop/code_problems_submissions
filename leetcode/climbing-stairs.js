@@ -30,6 +30,7 @@ var climbStairs = function(n) {
 
     //ERROR: handle n=1!
     //if? Not very elegant but ok... Adds to time complexity though. 
+    //ERROR: DOESN'T WORK FOR N=4 EITHER!
 
     //I'd like to see what other people do!
 };
